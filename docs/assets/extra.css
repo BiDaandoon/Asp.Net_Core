@@ -1,0 +1,51 @@
+:root {
+  --md-primary-fg-color: #6366f1;
+}
+
+.md-typeset {
+  font-size: 18px;
+  line-height: 2;
+}
+
+.md-nav__title {
+  font-weight: bold;
+}
+
+.md-typeset h1 {
+  font-weight: 800;
+}
+
+.md-typeset h2 {
+  border-bottom: 2px solid #6366f1;
+  padding-bottom: 5px;
+}
+
+.md-typeset code {
+  border-radius: 8px;
+}
+.md-footer-nav {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    right: 20px;
+    z-index: 999;
+
+    display: flex;
+    justify-content: space-between;
+    pointer-events: none;
+}
+
+.md-footer-nav__link {
+    pointer-events: auto;
+
+    background: var(--md-default-bg-color);
+    border-radius: 14px;
+    padding: 14px 20px;
+
+    box-shadow: 0 8px 25px rgba(0,0,0,.25);
+    transition: .25s;
+}
+
+.md-footer-nav__link:hover {
+    transform: translateY(-3px);
+}
