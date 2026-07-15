@@ -65,5 +65,6 @@ extra_css:
   - assets/extra.css
 
 nav:
+nav:
   - خانه: index.md
   - شروع کار با ASP.NET Core: "1. شروع کار با ASP.NET Core.md"
