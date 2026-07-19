@@ -66,14 +66,4 @@ extra_css:
 
 nav:
   - خانه: index.md
-
-  - شروع کار:
-      - شروع کار با ASP.NET Core: "1. شروع کار با ASP.NET Core.md"
-
-  - آموزش‌ها:
-      - وب اپ‌ها:
-          - انتخاب رابط کاربری (Web UI): "2. آموزش ها/1. وب اپ ها/1. انتخاب رابط کاربری (Web UI) در ASP.NET Core.md"
-          - Razor Pages:
-              - آموزش ساخت یک برنامه وب: "2. آموزش ها/1. وب اپ ها/2.  Razor Pages/1. آموزش ساخت یک برنامه وب با Razor Pages در ASP.NET Core.md"
-              - شروع کار با Razor Pages: "2. آموزش ها/1. وب اپ ها/2.  Razor Pages/2. شروع کار با Razor Pages در ASP.NET Core.md"
-              - افزودن Model به برنامه: "2. آموزش ها/1. وب اپ ها/2.  Razor Pages/3. آموزش افزودن Model به برنامه Razor Pages.md"
+  
