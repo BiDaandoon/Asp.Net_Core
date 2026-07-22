@@ -155,11 +155,22 @@ nav:
           - کلاس استاتیک: "C#/شی گرایی (OOPs in C#)/35. کلاس استاتیک در سی شارپ.md"
           - تفاوت متغیر، مرجع و نمونه: "C#/شی گرایی (OOPs in C#)/36. تفاوت بین متغیر، مرجع و نمونه‌ای از یک کلاس در سی شارپ.md"
 
+      - رویدادها، نمایندگان و بیان لامبدا (Events, Delegates & Lambda):
+          - رویدادها، نمایندگان و عبارات لامبدا: "C#/رویدادها، نمایندگان و بیان لامبدا در C# (Events, Delegates and Lambda Expression in C#)/1. رویدادها، نمایندگان و عبارات لامبدا در سی شارپ.md"
+          - نقش رویدادها، نمایندگان و مدیریت‌کننده رویداد: "C#/رویدادها، نمایندگان و بیان لامبدا در C# (Events, Delegates and Lambda Expression in C#)/2. نقش رویدادها، نمایندگان و مدیریت‌کننده رویداد در سی‌شارپ.md"
+          - Delegate ها به همراه مثال: "C#/رویدادها، نمایندگان و بیان لامبدا در C# (Events, Delegates and Lambda Expression in C#)/3. delegate ها در سی شارپ به همراه مثال.md"
+          - نمایندگان چندپخشی (Multicast Delegates): "C#/رویدادها، نمایندگان و بیان لامبدا در C# (Events, Delegates and Lambda Expression in C#)/4. نمایندگان چندپخشی در سی شارپ.md"
+          - Delegates Real-Time Example: "C#/رویدادها، نمایندگان و بیان لامبدا در C# (Events, Delegates and Lambda Expression in C#)/5. Delegates Real-Time Example in C.md"
+          - نماینده‌های عمومی (Generic Delegates): "C#/رویدادها، نمایندگان و بیان لامبدا در C# (Events, Delegates and Lambda Expression in C#)/6. نماینده‌های عمومی در سی شارپ.md"
+          - Anonymous Method: "C#/رویدادها، نمایندگان و بیان لامبدا در C# (Events, Delegates and Lambda Expression in C#)/7. Anonymous Method in C.md"
+          - Lambda Expressions: "C#/رویدادها، نمایندگان و بیان لامبدا در C# (Events, Delegates and Lambda Expression in C#)/8. Lambda Expressions in csharp.md"
+          - Events in C# with Examples: "C#/رویدادها، نمایندگان و بیان لامبدا در C# (Events, Delegates and Lambda Expression in C#)/9. Events in C with Examples.md"
+
       - OOPs Real-Time Examples:
           - Real-time Examples of Encapsulation Principle in csharp: "C#/OOPs Real-Time Examples/1. Real-time Examples of Encapsulation Principle in csharp.md"
           - Real-Time Examples of Abstraction Principle in csharp: "C#/OOPs Real-Time Examples/2. Real-Time Examples of Abstraction Principle in csharp.md"
           - Real-Time Examples of Inheritance Principle in csharp: "C#/OOPs Real-Time Examples/3. Real-Time Examples of Inheritance Principle in csharp.md"
-          - Real-Time Examples of Polymorphism Principle in csharp: "C#/OOPs Real-Time Examples/4. Real-Time Examples of Polymorphism Principle in csharp.md
+          - Real-Time Examples of Polymorphism Principle in csharp: "C#/OOPs Real-Time Examples/4. Real-Time Examples of Polymorphism Principle in csharp.md"
           - Real-Time Examples of Interface in csharp: "C#/OOPs Real-Time Examples/5. Real-Time Examples of Interface in csharp.md"
           - Real-Time Examples of Abstract Class in csharp: "C#/OOPs Real-Time Examples/6. Real-Time Examples of Abstract Class in csharp.md"
 
@@ -170,4 +181,3 @@ nav:
           - نحوه ایجاد استثنائات سفارشی در سی شارپ: "C#/مدیریت استثنا (Exception Handling)/4. نحوه ایجاد استثنائات سفارشی در سی شارپ.md"
           - ستثنای داخلی در سی شارپ: "C#/مدیریت استثنا (Exception Handling)/5. ستثنای داخلی در سی شارپ.md"
           - مدیریت استثنا در سوءاستفاده در سی شارپ: "C#/مدیریت استثنا (Exception Handling)/6. مدیریت استثنا در سوءاستفاده در سی شارپ.md"
-      
