@@ -1,25 +1,3 @@
-"""
-اسکریپت دانلود تصاویر و جایگزینی لینک‌ها در فایل‌های Markdown
-------------------------------------------------------------
-این اسکریپت روی پوشه‌ی docs (که از zip استخراج کردی) اجرا می‌شه.
-کارهایی که انجام می‌ده:
-  1. توی همه‌ی فایل‌های .md دنبال لینک‌های ![...](https://dotnettutorials.net/...) می‌گرده.
-  2. هر تصویر رو دانلود می‌کنه و کنار همون فایل md، توی یک پوشه‌ی images/ ذخیره می‌کنه.
-  3. لینک تصویر رو توی متن MD با مسیر لوکال (نسبی) جایگزین می‌کنه.
-
-نحوه‌ی اجرا:
-  1. پایتون ۳ باید نصب باشه.
-  2. کتابخونه‌ی requests رو نصب کن:
-         pip install requests
-  3. مسیر پوشه‌ی docs رو (که از zip استخراج کردی) به عنوان آرگومان بده:
-         python download_images.py "C:\path\to\docs"
-     یا اگه اسکریپت رو داخل همون پوشه‌ی docs کپی کنی، بدون آرگومان هم اجرا میشه
-     (پیش‌فرض پوشه‌ی جاری رو می‌گیره).
-
-نکته: اگه یک تصویر دانلود نشد (مثلاً لینک از دسترس خارج شده)، در گزارش پایانی
-لیست می‌شه ولی لینک اصلی توی فایل MD دست‌نخورده باقی می‌مونه تا خودت بعداً بررسی کنی.
-"""
-
 import os
 import re
 import sys
@@ -47,7 +25,6 @@ def safe_filename(url: str) -> str:
     path = urlparse(url).path
     name = unquote(os.path.basename(path)) or "image"
     name = re.sub(r'[^\w.\-]+', '_', name)
-    # اگه اسم خیلی طولانی بود، کوتاهش کن و یک هش کوچیک بهش اضافه کن تا یکتا بمونه
     if len(name.encode("utf-8")) > 120:
         h = hashlib.md5(url.encode("utf-8")).hexdigest()[:8]
         ext = os.path.splitext(name)[1] or ".png"
@@ -106,7 +83,7 @@ def process_md_file(md_path: str, stats: dict):
                 print(f"    ✅ {fname}")
             else:
                 stats["failed"].append(url)
-                continue  # لینک اصلی دست‌نخورده می‌مونه
+                continue
 
         new_full = f"![{alt_text}]({local_rel}{title_part})"
         new_content = new_content.replace(full_match, new_full)
@@ -136,7 +113,7 @@ def main():
 
     for md_path in md_files:
         process_md_file(md_path, stats)
-        time.sleep(0.05)  # کمی مکث برای رعایت ادب با سرور
+        time.sleep(0.05)
 
     print("\n================ گزارش پایانی ================")
     print(f"کل تصاویر پردازش‌شده: {stats['total']}")
