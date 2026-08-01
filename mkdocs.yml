@@ -68,6 +68,7 @@ nav:
   - خانه: index.md
 
   - مقدمه و راه اندازی:
+      - "مقدمه و راه اندازی (Introduction & Environment Setup)/index.md"
       - کامپیوتر چگونه کار می‌کند؟: "مقدمه و راه اندازی (Introduction & Environment Setup)/1. کامپیوتر چگونه کار می‌کند؟.md"
       - مقدمه‌ای بر زبان‌های برنامه‌نویسی: "مقدمه و راه اندازی (Introduction & Environment Setup)/2. مقدمه‌ای بر زبان‌های برنامه‌نویسی.md"
       - نحوه کار برنامه‌های کامپیوتری: "مقدمه و راه اندازی (Introduction & Environment Setup)/3. نحوه کار برنامه‌های کامپیوتری.md"
@@ -81,7 +82,10 @@ nav:
       - بهترین روش‌های استاندارد کدنویسی: "مقدمه و راه اندازی (Introduction & Environment Setup)/11. بهترین روش‌های استاندارد کدنویسی.md"
 
   - C#:
+      - "C#/index.md"
+
       - مقدمه سی شارپ (C#.NET Basics):
+          - "C#/مقدمه سی شارپ (C#.NET Basics)/index.md"
           - ساختار اولیه برنامه سی شارپ: "C#/مقدمه سی شارپ (C#.NET Basics)/1 .ساختار اولیه برنامه سی شارپ.md"
           - متدها و ویژگی‌های کلاس کنسول: "C#/مقدمه سی شارپ (C#.NET Basics)/2. متدها و ویژگی‌های کلاس کنسول در سی شارپ.md"
           - انواع داده: "C#/مقدمه سی شارپ (C#.NET Basics)/3. انواع داده در سی شارپ.md"
@@ -118,6 +122,7 @@ nav:
           - Boxing و Unboxing: "C#/مقدمه سی شارپ (C#.NET Basics)/34. Boxing و Unboxing در سی شارپ.md"
 
       - شی‌گرایی (OOP):
+          - "C#/شی گرایی (OOPs in C#)/index.md"
           - برنامه‌نویسی شی‌گرا (OOP): "C#/شی گرایی (OOPs in C#)/1. برنامه‌نویسی شی‌گرا (OOP) در سی‌شارپ.md"
           - کلاس و اشیاء: "C#/شی گرایی (OOPs in C#)/2. کلاس و اشیاء در سی شارپ.md"
           - سازنده‌ها: "C#/شی گرایی (OOPs in C#)/3. سازنده‌ها در سی شارپ.md"
@@ -156,6 +161,7 @@ nav:
           - تفاوت متغیر، مرجع و نمونه: "C#/شی گرایی (OOPs in C#)/36. تفاوت بین متغیر، مرجع و نمونه‌ای از یک کلاس در سی شارپ.md"
 
       - OOPs Real-Time Examples:
+          - "C#/OOPs Real-Time Examples/index.md"
           - Real-time Examples of Encapsulation Principle in csharp: "C#/OOPs Real-Time Examples/1. Real-time Examples of Encapsulation Principle in csharp.md"
           - Real-Time Examples of Abstraction Principle in csharp: "C#/OOPs Real-Time Examples/2. Real-Time Examples of Abstraction Principle in csharp.md"
           - Real-Time Examples of Inheritance Principle in csharp: "C#/OOPs Real-Time Examples/3. Real-Time Examples of Inheritance Principle in csharp.md"
@@ -164,6 +170,7 @@ nav:
           - Real-Time Examples of Abstract Class in csharp: "C#/OOPs Real-Time Examples/6. Real-Time Examples of Abstract Class in csharp.md"
 
       - مدیریت استثنا (Exception Handling):
+          - "C#/مدیریت استثنا (Exception Handling)/index.md"
           - مدیریت استثنا در سی شارپ: "C#/مدیریت استثنا (Exception Handling)/1. مدیریت استثنا در سی شارپ.md"
           - بلوک‌های catch چندگانه در سی شارپ: "C#/مدیریت استثنا (Exception Handling)/2. بلوک‌های catch چندگانه در سی شارپ.md"
           - بلوک finally در سی شارپ: "C#/مدیریت استثنا (Exception Handling)/3. بلوک finally در سی شارپ.md"
@@ -172,6 +179,7 @@ nav:
           - مدیریت استثنا در سوءاستفاده در سی شارپ: "C#/مدیریت استثنا (Exception Handling)/6. مدیریت استثنا در سوءاستفاده در سی شارپ.md"
 
       - رویدادها، نمایندگان و بیان لامبدا (Events, Delegates & Lambda):
+          - "C#/رویدادها، نمایندگان و بیان لامبدا در C# (Events, Delegates and Lambda Expression in C#)/index.md"
           - رویدادها، نمایندگان و عبارات لامبدا: "C#/رویدادها، نمایندگان و بیان لامبدا در C# (Events, Delegates and Lambda Expression in C#)/1. رویدادها، نمایندگان و عبارات لامبدا در سی شارپ.md"
           - نقش رویدادها، نمایندگان و مدیریت‌کننده رویداد: "C#/رویدادها، نمایندگان و بیان لامبدا در C# (Events, Delegates and Lambda Expression in C#)/2. نقش رویدادها، نمایندگان و مدیریت‌کننده رویداد در سی‌شارپ.md"
           - Delegate ها به همراه مثال: "C#/رویدادها، نمایندگان و بیان لامبدا در C# (Events, Delegates and Lambda Expression in C#)/3. delegate ها در سی شارپ به همراه مثال.md"
@@ -183,6 +191,7 @@ nav:
           - Events in C# with Examples: "C#/رویدادها، نمایندگان و بیان لامبدا در C# (Events, Delegates and Lambda Expression in C#)/9. Events in C with Examples.md"
 
       - چندرشته‌ای (Multi-Threading):
+          - "C#/چندرشته ای (Multi-Threading)/index.md"
           - چندنخی (Multithreading) در سی شارپ: "C#/چندرشته ای (Multi-Threading)/1. چندنخی (Multithreading) در سی شارپ.md"
           - Thread class in C#: "C#/چندرشته ای (Multi-Threading)/2. Thread class in C.md"
           - نحوه ارسال داده به تابع Thread به روش Type-Safe در سی شارپ: "C#/چندرشته ای (Multi-Threading)/3. نحوه ارسال داده به تابع Thread به روش Type-Safe در سی شارپ.md"
@@ -206,6 +215,7 @@ nav:
           - How to Debug a Multi-threaded Application in C#: "C#/چندرشته ای (Multi-Threading)/21. How to Debug a Multi-threaded Application in C.md"
 
       - مجموعه‌ها (Collections):
+          - "C#/مجموعه ها (Collections/index.md"
           - Arrays in C#: "C#/مجموعه ها (Collections/1. Arrays in C.md"
           - 2D Arrays in C#: "C#/مجموعه ها (Collections/2. 2D Arrays in C.md"
           - Advantages and Disadvantages of Arrays in C#: "C#/مجموعه ها (Collections/3. Advantages and Disadvantages of Arrays in C.md"
@@ -241,6 +251,7 @@ nav:
           - BlockingCollection in C#: "C#/مجموعه ها (Collections/33. BlockingCollection in C.md"
 
       - مدیریت فایل (File Handling):
+          - "C#/مدیریت فایل (File Handling)/index.md"
           - File Handling in C#: "C#/مدیریت فایل (File Handling)/1. File Handling in C.md"
           - FileStream Class in C#: "C#/مدیریت فایل (File Handling)/2. FileStream Class in C.md"
           - StreamReader and StreamWriter in C#: "C#/مدیریت فایل (File Handling)/3. StreamReader and StreamWriter in C.md"
@@ -253,6 +264,7 @@ nav:
           - Export and Import Excel Data in C#: "C#/مدیریت فایل (File Handling)/10. Export and Import Excel Data in C.md"
 
       - برنامه‌نویسی ناهمزمان (Asynchronous Programming):
+          - "C#/برنامه نویسی ناهمزمان (Asynchronous Programming)/index.md"
           - Introduction to Concurrency: "C#/برنامه نویسی ناهمزمان (Asynchronous Programming)/1. Introduction to Concurrency.md"
           - Async and Await in C#: "C#/برنامه نویسی ناهمزمان (Asynchronous Programming)/2. Async and Await in C.md"
           - Task in C#: "C#/برنامه نویسی ناهمزمان (Asynchronous Programming)/3. Task in C.md"
@@ -273,6 +285,7 @@ nav:
           - How to Cancel Asynchronous Stream in C#: "C#/برنامه نویسی ناهمزمان (Asynchronous Programming)/18. How to Cancel Asynchronous Stream in C.md"
 
       - برنامه‌ریزی موازی (Parallel Programming):
+          - "C#/برنامه ریزی موازی (Parallel Programming)/index.md"
           - Task Parallel Library in C#: "C#/برنامه ریزی موازی (Parallel Programming)/1. Task Parallel Library in C.md"
           - Parallel For in C#: "C#/برنامه ریزی موازی (Parallel Programming)/2. Parallel For in C.md"
           - Parallel Foreach Loop in C#: "C#/برنامه ریزی موازی (Parallel Programming)/3. Parallel Foreach Loop in C.md"
@@ -285,6 +298,7 @@ nav:
           - Multithreading vs Asynchronous Programming vs Parallel Programming in C#: "C#/برنامه ریزی موازی (Parallel Programming)/10. Multithreading vs Asynchronous Programming vs Parallel Programming in C.md"
 
       - AutoMapper:
+          - "C#/AutoMapper/index.md"
           - AutoMapper in C#: "C#/AutoMapper/1. AutoMapper in C.md"
           - AutoMapper Complex Mapping in C#: "C#/AutoMapper/2. AutoMapper Complex Mapping in C.md"
           - How to Map Complex Type to Primitive Type using AutoMapper in C#: "C#/AutoMapper/3. How to Map Complex Type to Primitive Type using AutoMapper in C.md"
@@ -294,12 +308,14 @@ nav:
           - Fixed and Dynamic Values in Destination Property in AutoMapper: "C#/AutoMapper/7. Fixed and Dynamic Values in Destination Property in AutoMapper.md"
 
       - پارامترهای اختیاری، ایندکسرها و انوم‌ها (Optional Parameter, Indexers and Enums):
+          - "C#/پارامترهای اختیاری، ایندکسرها و انوم ها (Optional Parameter, Indexers and Enums)/index.md"
           - How to make Optional Parameters in C#: "C#/پارامترهای اختیاری، ایندکسرها و انوم ها (Optional Parameter, Indexers and Enums)/1. How to make Optional Parameters in C.md"
           - Indexers in C#: "C#/پارامترهای اختیاری، ایندکسرها و انوم ها (Optional Parameter, Indexers and Enums)/2. Indexers in C.md"
           - Indexers Real-Time Example in C#: "C#/پارامترهای اختیاری، ایندکسرها و انوم ها (Optional Parameter, Indexers and Enums)/3. Indexers Real-Time Example in C.md"
           - Enums in C#: "C#/پارامترهای اختیاری، ایندکسرها و انوم ها (Optional Parameter, Indexers and Enums)/4. Enums in C.md"
 
       - معماری چارچوب دات‌نت (.NET Framework Architecture):
+          - "C#/معماری چارچوب .NET (.NET Framework Architecture)/index.md"
           - DOT NET Framework: "C#/معماری چارچوب .NET (.NET Framework Architecture)/1. DOT NET Framework.md"
           - Common Language Runtime in .NET Framework: "C#/معماری چارچوب .NET (.NET Framework Architecture)/2. Common Language Runtime in .NET Framework.md"
           - .NET Program Execution Process: "C#/معماری چارچوب .NET (.NET Framework Architecture)/3. .NET Program Execution Process.md"
@@ -314,6 +330,7 @@ nav:
           - DLL Hell Problem and Solution in .NET Framework: "C#/معماری چارچوب .NET (.NET Framework Architecture)/12. DLL Hell Problem and Solution in .NET Framework.md"
 
       - وار، پویایی و بازتاب (Var, Dynamic and Reflection):
+          - "C#/وار، پویایی و بازتاب (Var, Dynamic and Reflection)/index.md"
           - Reflection in C#: "C#/وار، پویایی و بازتاب (Var, Dynamic and Reflection)/1. Reflection in C.md"
           - Dynamic Type in C#: "C#/وار، پویایی و بازتاب (Var, Dynamic and Reflection)/2. Dynamic Type in C.md"
           - Var Keyword in C#: "C#/وار، پویایی و بازتاب (Var, Dynamic and Reflection)/3. Var Keyword in C.md"
@@ -321,3 +338,97 @@ nav:
           - Dynamic vs Reflection in C#: "C#/وار، پویایی و بازتاب (Var, Dynamic and Reflection)/5. Dynamic vs Reflection in C.md"
           - Volatile Keyword in C#: "C#/وار، پویایی و بازتاب (Var, Dynamic and Reflection)/6. Volatile Keyword in C.md"
           - Ref vs Out in C#: "C#/وار، پویایی و بازتاب (Var, Dynamic and Reflection)/7. Ref vs Out in C.md"
+
+  - میکروسرویس‌ها (Microservices):
+      - "میکروسرویس ها (Microservices)/index.md"
+
+      - میکروسرویس ها – مبانی و اصول (Microservices – Foundations & Fundamentals):
+          - "میکروسرویس ها (Microservices)/میکروسرویس ها – مبانی و اصول (Microservices – Foundations & Fundamentals)/index.md"
+          - Introduction to Microservices Architecture: "میکروسرویس ها (Microservices)/میکروسرویس ها – مبانی و اصول (Microservices – Foundations & Fundamentals)/1. Introduction to Microservices Architecture.md"
+          - Microservices Design Principles: "میکروسرویس ها (Microservices)/میکروسرویس ها – مبانی و اصول (Microservices – Foundations & Fundamentals)/2. Microservices Design Principles.md"
+          - ASP.NET Core Web API Fundamentals: "میکروسرویس ها (Microservices)/میکروسرویس ها – مبانی و اصول (Microservices – Foundations & Fundamentals)/3. ASP.NET Core Web API Fundamentals.md"
+          - Clean Architecture in ASP.NET Core Web API: "میکروسرویس ها (Microservices)/میکروسرویس ها – مبانی و اصول (Microservices – Foundations & Fundamentals)/4. Clean Architecture in ASP.NET Core Web API.md"
+          - Domain-Driven Design in ASP.NET Core Web API: "میکروسرویس ها (Microservices)/میکروسرویس ها – مبانی و اصول (Microservices – Foundations & Fundamentals)/5. Domain-Driven Design in ASP.NET Core Web API.md"
+          - Project Setup for Microservices in ASP.NET Core Web API: "میکروسرویس ها (Microservices)/میکروسرویس ها – مبانی و اصول (Microservices – Foundations & Fundamentals)/6. Project Setup for Microservices in ASP.NET Core Web API.md"
+
+      - ساخت میکروسرویس کاربر (Building User Microservice ):
+          - "میکروسرویس ها (Microservices)/ساخت میکروسرویس کاربر (Building User Microservice )/index.md"
+          - User Microservice with ASP.NET Core Web API: "میکروسرویس ها (Microservices)/ساخت میکروسرویس کاربر (Building User Microservice )/1. User Microservice with ASP.NET Core Web API.md"
+          - Implementing User Microservice Domain Layer: "میکروسرویس ها (Microservices)/ساخت میکروسرویس کاربر (Building User Microservice )/2. Implementing User Microservice Domain Layer.md"
+          - Implementing User Microservice Infrastructure Layer: "میکروسرویس ها (Microservices)/ساخت میکروسرویس کاربر (Building User Microservice )/3. Implementing User Microservice Infrastructure Layer.md"
+          - Implementing User Microservice Application Layer: "میکروسرویس ها (Microservices)/ساخت میکروسرویس کاربر (Building User Microservice )/4. Implementing User Microservice Application Layer.md"
+          - Implementing User Microservice API Layer: "میکروسرویس ها (Microservices)/ساخت میکروسرویس کاربر (Building User Microservice )/5. Implementing User Microservice API Layer.md"
+
+      - Git and GitHub:
+          - "میکروسرویس ها (Microservices)/Git and GitHub/index.md"
+          - Introduction to Source Code Management: "میکروسرویس ها (Microservices)/Git and GitHub/1. Introduction to Source Code Management.md"
+          - Installing & Setting Up Git and GitHub in Visual Studio: "میکروسرویس ها (Microservices)/Git and GitHub/2. Installing & Setting Up Git and GitHub in Visual Studio.md"
+          - Creating a Git Repository for an ASP.NET Core Web API Project: "میکروسرویس ها (Microservices)/Git and GitHub/3. Creating a Git Repository for an ASP.NET Core Web API Project.md"
+          - Core Git Concepts: "میکروسرویس ها (Microservices)/Git and GitHub/4. Core Git Concepts.md"
+          - Git Repository Branching for ASP.NET Core Development: "میکروسرویس ها (Microservices)/Git and GitHub/5. Git Repository Branching for ASP.NET Core Development.md"
+          - Git Commit Best Practices: "میکروسرویس ها (Microservices)/Git and GitHub/6. Git Commit Best Practices.md"
+          - Merging and Resolving Conflicts in GIT Repository: "میکروسرویس ها (Microservices)/Git and GitHub/7. Merging and Resolving Conflicts in GIT Repository.md"
+          - Working with GitHub Remote Repositories: "میکروسرویس ها (Microservices)/Git and GitHub/8. Working with GitHub Remote Repositories.md"
+          - How Git and GitHub Work Together: "میکروسرویس ها (Microservices)/Git and GitHub/9. How Git and GitHub Work Together.md"
+          - Git Revert vs Git Reset: "میکروسرویس ها (Microservices)/Git and GitHub/10. Git Revert vs Git Reset.md"
+          - Git Logs & History: "میکروسرویس ها (Microservices)/Git and GitHub/11. Git Logs & History.md"
+
+      - استراتژی های مدیریت داده در میکروسرویس (Data Management Strategies in Microservices):
+          - "میکروسرویس ها (Microservices)/استراتژی های مدیریت داده در میکروسرویس (Data Management Strategies in Microservices)/index.md"
+          - Data Management Strategies in Microservices: "میکروسرویس ها (Microservices)/استراتژی های مدیریت داده در میکروسرویس (Data Management Strategies in Microservices)/1. Data Management Strategies in Microservices.md"
+          - Saga Pattern in Microservices: "میکروسرویس ها (Microservices)/استراتژی های مدیریت داده در میکروسرویس (Data Management Strategies in Microservices)/2. Saga Pattern in Microservices.md"
+          - Define Shared Messaging Infrastructure for Saga Pattern: "میکروسرویس ها (Microservices)/استراتژی های مدیریت داده در میکروسرویس (Data Management Strategies in Microservices)/3. Define Shared Messaging Infrastructure for Saga Pattern.md"
+          - Implementing Saga Pattern in OrderService: "میکروسرویس ها (Microservices)/استراتژی های مدیریت داده در میکروسرویس (Data Management Strategies in Microservices)/4. Implementing Saga Pattern in OrderService.md"
+          - Implementing OrchestratorService for Saga Pattern: "میکروسرویس ها (Microservices)/استراتژی های مدیریت داده در میکروسرویس (Data Management Strategies in Microservices)/5. Implementing OrchestratorService for Saga Pattern.md"
+          - Implementing Saga Pattern in Product Service: "میکروسرویس ها (Microservices)/استراتژی های مدیریت داده در میکروسرویس (Data Management Strategies in Microservices)/6. Implementing Saga Pattern in Product Service.md"
+          - Implementing Saga Pattern in Notification Service: "میکروسرویس ها (Microservices)/استراتژی های مدیریت داده در میکروسرویس (Data Management Strategies in Microservices)/7. Implementing Saga Pattern in Notification Service.md"
+
+      - دروازه API در میکروسرویس (API Gateway in Microservices):
+          - "میکروسرویس ها (Microservices)/دروازه API در میکروسرویس (API Gateway in Microservices)/index.md"
+          - API Gateway in ASP.NET Core Web API Microservices: "میکروسرویس ها (Microservices)/دروازه API در میکروسرویس (API Gateway in Microservices)/1. API Gateway in ASP.NET Core Web API Microservices.md"
+          - Ocelot API Gateway in ASP.NET Core Web API: "میکروسرویس ها (Microservices)/دروازه API در میکروسرویس (API Gateway in Microservices)/2. Ocelot API Gateway in ASP.NET Core Web API.md"
+          - Logging with Ocelot API Gateway in ASP.NET Core Web API: "میکروسرویس ها (Microservices)/دروازه API در میکروسرویس (API Gateway in Microservices)/3. Logging with Ocelot API Gateway in ASP.NET Core Web API.md"
+          - JWT Authentication in API Gateway: "میکروسرویس ها (Microservices)/دروازه API در میکروسرویس (API Gateway in Microservices)/4. JWT Authentication in API Gateway.md"
+          - Response Aggregation in API Gateway: "میکروسرویس ها (Microservices)/دروازه API در میکروسرویس (API Gateway in Microservices)/5. Response Aggregation in API Gateway.md"
+          - Response Compression in API Gateway: "میکروسرویس ها (Microservices)/دروازه API در میکروسرویس (API Gateway in Microservices)/6. Response Compression in API Gateway.md"
+          - Rate Limiting and Throttling in API Gateway: "میکروسرویس ها (Microservices)/دروازه API در میکروسرویس (API Gateway in Microservices)/7. Rate Limiting and Throttling in API Gateway.md"
+          - Response Caching in API Gateway: "میکروسرویس ها (Microservices)/دروازه API در میکروسرویس (API Gateway in Microservices)/8. Response Caching in API Gateway.md"
+          - API Gateway using YARP in ASP.NET Core: "میکروسرویس ها (Microservices)/دروازه API در میکروسرویس (API Gateway in Microservices)/9. API Gateway using YARP in ASP.NET Core.md"
+
+      - RabbitMQ در میکروسرویس (RabbitMQ in Microservices):
+          - "میکروسرویس ها (Microservices)/RabbitMQ در میکروسرویس (RabbitMQ in Microservices)/index.md"
+          - Inter-Service Communication in Microservices: "میکروسرویس ها (Microservices)/RabbitMQ در میکروسرویس (RabbitMQ in Microservices)/1. Inter-Service Communication in Microservices.md"
+          - RabbitMQ for Asynchronous Messaging in Microservices: "میکروسرویس ها (Microservices)/RabbitMQ در میکروسرویس (RabbitMQ in Microservices)/2. RabbitMQ for Asynchronous Messaging in Microservices.md"
+          - Download, Install, and Configure RabbitMQ Locally on a Windows OS: "میکروسرویس ها (Microservices)/RabbitMQ در میکروسرویس (RabbitMQ in Microservices)/3. Download, Install, and Configure RabbitMQ Locally on a Windows OS.md"
+          - RabbitMQ End-to-End Test using Management UI: "میکروسرویس ها (Microservices)/RabbitMQ در میکروسرویس (RabbitMQ in Microservices)/4. RabbitMQ End-to-End Test using Management UI.md"
+          - RabbitMQ Integration Steps: "میکروسرویس ها (Microservices)/RabbitMQ در میکروسرویس (RabbitMQ in Microservices)/5. RabbitMQ Integration Steps.md"
+          - Integrating RabbitMQ in ASP.NET Core Web API: "میکروسرویس ها (Microservices)/RabbitMQ در میکروسرویس (RabbitMQ in Microservices)/6. Integrating RabbitMQ in ASP.NET Core Web API.md"
+          - End-to-end Order Placed Communication using RabbitMQ: "میکروسرویس ها (Microservices)/RabbitMQ در میکروسرویس (RabbitMQ in Microservices)/7. End-to-end Order Placed Communication using RabbitMQ.md"
+
+      - GRPC، CQRS، GraphQL، Circuit Breaker، CORS و OData:
+          - "میکروسرویس ها (Microservices)/GRPC، CQRS، GraphQL، Circuit Breaker، CORS و OData/index.md"
+          - gRPC in ASP.NET Core Web API: "میکروسرویس ها (Microservices)/GRPC، CQRS، GraphQL، Circuit Breaker، CORS و OData/1. gRPC in ASP.NET Core Web API.md"
+          - Implementing gRPC in ASP.NET Core: "میکروسرویس ها (Microservices)/GRPC، CQRS، GraphQL، Circuit Breaker، CORS و OData/2. Implementing gRPC in ASP.NET Core.md"
+          - CQRS in ASP.NET Core Web API: "میکروسرویس ها (Microservices)/GRPC، CQRS، GraphQL، Circuit Breaker، CORS و OData/3. CQRS in ASP.NET Core Web API.md"
+          - Implementing CQRS in ASP.NET Core Microservices: "میکروسرویس ها (Microservices)/GRPC، CQRS، GraphQL، Circuit Breaker، CORS و OData/4. Implementing CQRS in ASP.NET Core Microservices.md"
+          - GraphQL in ASP.NET Core Web API: "میکروسرویس ها (Microservices)/GRPC، CQRS، GraphQL، Circuit Breaker، CORS و OData/5. GraphQL in ASP.NET Core Web API.md"
+          - Implementing GraphQL in ASP.NET Core using Hot Chocolate: "میکروسرویس ها (Microservices)/GRPC، CQRS، GraphQL، Circuit Breaker، CORS و OData/6. Implementing GraphQL in ASP.NET Core using Hot Chocolate.md"
+          - Circuit Breaker in ASP.NET Core Web API: "میکروسرویس ها (Microservices)/GRPC، CQRS، GraphQL، Circuit Breaker، CORS و OData/7. Circuit Breaker in ASP.NET Core Web API.md"
+          - Implementing Circuit Breaker in ASP.NET Core Microservices: "میکروسرویس ها (Microservices)/GRPC، CQRS، GraphQL، Circuit Breaker، CORS و OData/8. Implementing Circuit Breaker in ASP.NET Core Microservices.md"
+          - CORS in ASP.NET Core Web API: "میکروسرویس ها (Microservices)/GRPC، CQRS، GraphQL، Circuit Breaker، CORS و OData/9. CORS in ASP.NET Core Web API.md"
+          - Implementing CORS in ASP.NET Core Microservices: "میکروسرویس ها (Microservices)/GRPC، CQRS، GraphQL، Circuit Breaker، CORS و OData/10. Implementing CORS in ASP.NET Core Microservices.md"
+          - OData in ASP.NET Core Web API: "میکروسرویس ها (Microservices)/GRPC، CQRS، GraphQL، Circuit Breaker، CORS و OData/11. OData in ASP.NET Core Web API.md"
+          - Implementing OData in ASP.NET Core Microservices: "میکروسرویس ها (Microservices)/GRPC، CQRS، GraphQL، Circuit Breaker، CORS و OData/12 .Implementing OData in ASP.NET Core Microservices.md"
+
+      - نسخه بندی، تلاش مجدد و تست واحد API (API Versioning, Retry, and Unit Testing):
+          - "میکروسرویس ها (Microservices)/نسخه بندی، تلاش مجدد و تست واحد API (API Versioning, Retry, and Unit Testing)/index.md"
+          - ASP.NET Core Web API Versioning: "میکروسرویس ها (Microservices)/نسخه بندی، تلاش مجدد و تست واحد API (API Versioning, Retry, and Unit Testing)/1. ASP.NET Core Web API Versioning.md"
+          - Retry Using Polly in ASP.NET Core Web API: "میکروسرویس ها (Microservices)/نسخه بندی، تلاش مجدد و تست واحد API (API Versioning, Retry, and Unit Testing)/2. Retry Using Polly in ASP.NET Core Web API.md"
+
+      - خطوط لوله CICD در .NET (CICD Pipelines in .NET):
+          - "میکروسرویس ها (Microservices)/خطوط لوله CICD در .NET (CICD Pipelines in .NET)/index.md"
+          - Introduction to CICD Pipelines in .NET: "میکروسرویس ها (Microservices)/خطوط لوله CICD در .NET (CICD Pipelines in .NET)/1. Introduction to CICD Pipelines in .NET.md"
+          - Preparing the ASP.NET Core Web API Project for CICD: "میکروسرویس ها (Microservices)/خطوط لوله CICD در .NET (CICD Pipelines in .NET)/2. Preparing the ASP.NET Core Web API Project for CICD.md"
+          - Building Continuous Integration Pipeline with GitHub Actions: "میکروسرویس ها (Microservices)/خطوط لوله CICD در .NET (CICD Pipelines in .NET)/3. Building Continuous Integration Pipeline with GitHub Actions.md"
+          - Managing Secrets and Configuration in CICD: "میکروسرویس ها (Microservices)/خطوط لوله CICD در .NET (CICD Pipelines in .NET)/4. Managing Secrets and Configuration in CICD.md"
+          - Automating Deployment to IIS with CICD Pipeline using GitHub Actions: "میکروسرویس ها (Microservices)/خطوط لوله CICD در .NET (CICD Pipelines in .NET)/5. Automating Deployment to IIS with CICD Pipeline using GitHub Actions.md"
